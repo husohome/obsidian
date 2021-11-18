@@ -1,0 +1,10 @@
+{
+  "alwaysUpdateLinks": true,
+  "showFrontmatter": true,
+  "foldHeading": true,
+  "foldIndent": true,
+  "defaultViewMode": "preview",
+  "showLineNumber": true,
+  "spellcheck": true,
+  "readableLineLength": true
+}

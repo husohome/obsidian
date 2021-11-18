@@ -1,0 +1,134 @@
+{
+  "main": {
+    "id": "35ba55f958a76080",
+    "type": "split",
+    "children": [
+      {
+        "id": "072ee2fa7dcc4ff6",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Classes in productivity bookkeeper.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0e6b3a9e3421e94f",
+    "type": "split",
+    "children": [
+      {
+        "id": "06cd96ec0c9aa8da",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e65cc02bbfb86a60",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "899ef01a609feb6e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "9aab9b273046259c",
+    "type": "split",
+    "children": [
+      {
+        "id": "2418afc8fa518baa",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ac602c21eb52cdf0",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Classes in productivity bookkeeper.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "1de2d21e197cd326",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Classes in productivity bookkeeper.md"
+              }
+            }
+          },
+          {
+            "id": "0f3535d201967498",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Classes in productivity bookkeeper.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f1f112c9ecc9dccc",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "active": "072ee2fa7dcc4ff6",
+  "lastOpenFiles": [
+    "Classes in productivity bookkeeper.md",
+    "java project - productivity bookkeeper.md",
+    "To-do (basic execution unit).md",
+    "Creating a course plan.md",
+    "Daily scheduler.md",
+    "Scheduling how to execute the course plan (weekly schedule).md",
+    "Recent To-Do List.md",
+    "Personal Weigth Loss Tracking.md",
+    "A Good way to create CSS colour systems.md",
+    "High-School-Book-Keeperapproach to productivity.md"
+  ]
+}
