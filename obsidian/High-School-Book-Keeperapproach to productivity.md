@@ -22,7 +22,7 @@ maybe  I could write an app about it?
 2. you could schedule some special sessions
 	- idea session: just working on ideas (maybe use obsidian note?)
 	- meditation, exercise, shopping, excursions, etc.
-3.  however, instead of pre-scheduling your courses, like in high school, you schedule the course a day before or on the and track your credits spent
+3.  however, instead of pre-scheduling your courses, like in high school, you schedule the course a day before or on the day you want to do it, and track your credits spent
 		- think of yourself as needing to work 12 - 14 hours a day, so you'd have four major chunks of time, each chunk about 3 - 4 hours and arrange as such
 		- example according to the previous example of courses and credits
 			- Today:

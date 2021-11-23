@@ -1,6 +1,6 @@
 
 # Personal
-1. write dissertation (challenge: [[Exp - Is working 80 hours a week possible]]), log here: [[Disseration Log]]
+1. write dissertation (challenge: [[Exp - Is working 80 hours a week possible]]), log here: [[Disseration Master]]
 2. try stricter keto + intermittent fasting + exercise [[Personal Weigth Loss Tracking]]
 3. personal coding project, such as [[java project - productivity bookkeeper]]
 

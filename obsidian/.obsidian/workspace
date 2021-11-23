@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "072ee2fa7dcc4ff6",
+        "id": "35a89d0548cec485",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Classes in productivity bookkeeper.md",
+            "file": "2021-11-24.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Classes in productivity bookkeeper.md",
+                "file": "2021-11-24.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -85,7 +85,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Classes in productivity bookkeeper.md"
+                "file": "2021-11-24.md"
               }
             }
           },
@@ -95,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Classes in productivity bookkeeper.md",
+                "file": "2021-11-24.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -111,6 +111,14 @@
                 "useHierarchy": true
               }
             }
+          },
+          {
+            "id": "b53d9f450140b485",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
         ]
       }
@@ -118,17 +126,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "072ee2fa7dcc4ff6",
+  "active": "35a89d0548cec485",
   "lastOpenFiles": [
-    "Classes in productivity bookkeeper.md",
-    "java project - productivity bookkeeper.md",
-    "To-do (basic execution unit).md",
-    "Creating a course plan.md",
-    "Daily scheduler.md",
-    "Scheduling how to execute the course plan (weekly schedule).md",
-    "Recent To-Do List.md",
-    "Personal Weigth Loss Tracking.md",
-    "A Good way to create CSS colour systems.md",
-    "High-School-Book-Keeperapproach to productivity.md"
+    "2021-11-24.md",
+    "2021-11-22.md",
+    "2021-11-21.md",
+    "Disseration Master.md",
+    "duimps.md",
+    "short-form development using machine learning.md",
+    "Dissertation Dumps.md",
+    "shortening big five using elastic net.md",
+    "short comings of shortened tests.md",
+    "on the sins of short-form development.md"
   ]
 }

@@ -3,7 +3,8 @@
 advice from [[Musk's advice]]
 
 1. Maybe let's pretend i needed to finish thesis in a day?
-	- [[Disseration Log]]
+	- [[Disseration Master]]
+	- 
 
 2. then, if bored, try to fill-in with exercise and coding challenges [[Useful Advice for self-teaching coding]] ?
 

@@ -20,5 +20,6 @@
 
 3. trying strict keto + IF (not strict) + exercising
 	[[Recent To-Do List]]
+	- 11/18 not very hungry, good!
 
 #exp #to-do #diet

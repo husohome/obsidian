@@ -1,0 +1,1 @@
+Schulenberg, S. E., Schnetzer, L. W., & Buchanan, E. M. (2011). The purpose in life test-short form: development and psychometric support. _Journal of Happiness Studies_, _12_(5), 861-876.

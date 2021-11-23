@@ -6,5 +6,18 @@
   "defaultViewMode": "preview",
   "showLineNumber": true,
   "spellcheck": true,
-  "readableLineLength": true
+  "readableLineLength": true,
+  "spellcheckDictionary": [
+    "subfactors",
+    "multifactoral",
+    "priori",
+    "behavioural",
+    "multilabel",
+    "subfield",
+    "hyperparameter",
+    "Likert",
+    "hyperparameter",
+    "generalizable",
+    "hoc"
+  ]
 }

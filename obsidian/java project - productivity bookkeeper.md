@@ -10,7 +10,10 @@
 
 # Structure
 1. plan: spring-boot + Vue.js
-2. perhaps MVC is easier than completely decoupled.
+2. just use decoupled
+	1. represent everything as database tables
+	2. call api s to update the database with, that's it
+	3. let frontend visualize the data
 
 # Essential features
 1. design "courses" and set credits (weekly hours)
